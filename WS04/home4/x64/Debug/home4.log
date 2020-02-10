@@ -1,0 +1,12 @@
+﻿  ConfirmationSender.cpp
+  Reservation.cpp
+E:\semester 3\OOP345\OOP-Workshops\WS04\home4\Reservation.cpp(31,26): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\semester 3\OOP345\OOP-Workshops\WS04\home4\Reservation.cpp(49,30): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\semester 3\OOP345\OOP-Workshops\WS04\home4\Reservation.cpp(52,42): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\semester 3\OOP345\OOP-Workshops\WS04\home4\Reservation.cpp(55,42): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\semester 3\OOP345\OOP-Workshops\WS04\home4\Reservation.cpp(58,42): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Restaurant.cpp
+  w4_home.cpp
+  Generating Code...
+E:\semester 3\OOP345\OOP-Workshops\WS04\home4\Reservation.cpp(61,39): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  home4.vcxproj -> E:\semester 3\OOP345\OOP-Workshops\WS04\home4\x64\Debug\home4.exe

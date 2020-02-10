@@ -1,0 +1,21 @@
+                char space;
+		string str;
+		ifstream file(fileName, ios::in);
+		if (file) {
+			while (file.eof()) {
+				file.get(space);
+				if (space == ' ') {
+					count++;
+				}
+			}
+		}
+		file.close();
+		file.open(fileName);
+		s = new string[count];
+		while (file.eof()) {
+			for (int i = 0; i < count; i++) {
+				getline(file, str, ' ');
+				s[i] = str;
+			}
+		}
+		file.close();

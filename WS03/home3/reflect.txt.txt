@@ -1,0 +1,159 @@
+This Workshop was a little harder than the previous ones.
+IN the end, I was getting two linker errors and it took two days to me to understand that except of using *this.size() I should use this->size(), means ARROW NOTATION to avoid the linker errors. After trying, I get to know that dot notation does not work with ovverload functions. For overload functions we must use arrow notation. And in this case only arrow notation works.
+
+
+
+Quiz 3 reflection:
+
+
+Questions:
+
+1. Problems that arise with dynamic typing include:
+a. determining the dynamic type in copying a polymorphic object to another polymorphic object.
+b. specialising an operator for a dynamic type
+c. excluding a specific type from most derived selection.
+d. all of the above.
+e. none
+
+
+7. Referencing Q6&7, does the variable ‘shape’. Have the same value as the variable ‘clone’:
+a. YES
+b. NO
+
+
+9. In Code 2.0, Line 17 will print “Null pointer on second type-cast”:
+a. YES
+b. NO
+
+
+12. In code 3.0, first iteration of line 42 will print:
+a. 3
+b. 2 5
+c. class C object are private
+d. all of the above
+e. none 
+
+
+13. In code 3.0, second iteration of line 42 will print:
+a. 3
+b. 2 5
+c. class C object are private
+d. all of the above
+e. none 
+
+
+14. In code 3.0, third iteration of line 42 will print:
+a. 3
+b. 2 5
+c. class C object are private
+d. all of the above
+e. none 
+
+
+15.In Code 3.0, First iteration of line 44 will print:
+a. Pointer to type A
+b. Pointer to type B
+c. Pointer to type C
+d. All of the above
+e. None of the above
+
+
+16.In Code 3.0, Second iteration of line 44 will print:
+a. Pointer to type A
+b. Pointer to type B
+c. Pointer to type C
+d. All of the above
+e. None of the above
+
+
+17.In Code 3.0, Third iteration of line 44 will print:
+a. Pointer to type A
+b. Pointer to type B
+c. Pointer to type C
+d. All of the above
+e. None of the above
+
+
+18.In Code 4.0, The output of line 8 is:
+a. 2
+b. 4
+c. 1
+d. 3
+e. None of the above
+
+
+19.In Code 4.0, The output of line 9 is:
+a. 2
+b. 4
+c. 1
+d. 3
+e. None of the above
+
+
+20.In Code 4.0, The output of line 10 is:
+a. 2
+b. 4
+c. 1
+d. 3
+e. None of the above
+
+
+21.In Code 4.0, The output of line 11 is:
+a. 2
+b. 4
+c. 1
+d. 3
+e. None of the above
+
+
+22.In Code 4.0, The output of line 12 is:
+a. 2
+b. 4
+c. 1
+d. 3
+e. None of the above
+
+
+23. In code 5.0, the output of line 9 is:
+a. C-C
+b. A-A
+c. C-D
+d. A-B
+e. None of the above.
+
+
+24. In code 5.0, the output of line 10 is:
+a. C-C
+b. A-A
+c. C-D
+d. A-B
+e. None of the above.
+
+
+25. In code 5.0, the output of line 11 is:
+a. C-C
+b. A-A
+c. C-D
+d. A-B
+e. None of the above.
+
+
+Answers:
+
+1. (d)all of the above.
+7. (a)YES
+9. (a)YES
+12. (a) 3
+13. (b)2 5
+14. (c) Class C object is private
+15. (a)Pointer to type A
+16. (a)Pointer to type A
+17. (a)Pointer to type A
+18. (b)4
+19. (a)2
+20. (c)1
+21. (a)2
+22. (b)4
+23. (a)C-C
+24. (b)A-A
+25. (c)C-D

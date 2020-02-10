@@ -1,0 +1,35 @@
+
+Worshops are getting hard every week. This week, we learn to deal containers. I was getting linker error because I was using same functions but in one file I used the const keyword but in another one forget. No doubt, it was a silly mistake, but gave me huge problem. After that I used move and copy assignments in both ConfirmationSender and Restaurant module, which was not the right way to do this workshop. After, I used just these assignment operators in ConfirmationSender and I was successful to implement the files together then.
+
+Quiz 4 Reflection:
+
+Questions:
+5. In the code 3.0 the main will print:
+a. 5
+b. 0
+c. none of the above.
+
+
+7. In the code 5.0, line 1 will result in compile error:
+a. yes
+b. no
+
+
+9. line 3 will result in compile error:
+a. yes
+b. no
+
+
+24. line 4 will print
+a. 0
+b. 20 
+c. 30
+d. all 
+e. none
+
+Answers:
+
+5. c
+7. b
+9. b
+24. b 
