@@ -1,0 +1,10 @@
+﻿  Book.cpp
+E:\semester 3\OOP345\OOP-Workshops\WS05\lab5\Book.cpp(57,29): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\semester 3\OOP345\OOP-Workshops\WS05\lab5\Book.cpp(60,41): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\semester 3\OOP345\OOP-Workshops\WS05\lab5\Book.cpp(63,42): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\semester 3\OOP345\OOP-Workshops\WS05\lab5\Book.cpp(66,42): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\semester 3\OOP345\OOP-Workshops\WS05\lab5\Book.cpp(69,42): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  w5_lab.cpp
+  Generating Code...
+E:\semester 3\OOP345\OOP-Workshops\WS05\lab5\Book.cpp(72,39): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab5.vcxproj -> E:\semester 3\OOP345\OOP-Workshops\WS05\lab5\x64\Debug\lab5.exe
