@@ -1,0 +1,106 @@
+
+1. I needed to deallocate memory in vector because without deallocation, memory will be leak.
+2. Yes, there could be another solution having functions which can work same exact like this. For example, those fucntions should have ability to distinguish between vehicles having similar names.
+3. List stores elements in non-continous memory whereas vectors storer elements one by one in the memory, so list is more efficient than vectors however, they both are data structures and works like same. So, yes I could have used vectors.
+
+
+QUIZ 6 REFLECTION
+
+1. line 14 prints
+a. 20000
+b. 900
+c. 1200
+d. all of the above
+e. none of the above
+
+2. line 18 prints
+a. 20000
+b. 900
+c. 1200
+d. all of the above
+e. none of the above
+
+3. line 21 prints
+a. 20000
+b. 900
+c. 1200
+d. all of the above
+e. none of the above
+
+6. First iteration of line 11 is
+a. 129
+b. 63
+c. 12
+d. 6
+e. 3
+
+7. Second iteration of line 11 is
+a. 129
+b. 63
+c. 12
+d. 6
+e. 3
+
+8. Third iteration of line 11 is
+a. 129
+b. 63
+c. 12
+d. 6
+e. 3
+
+9. Last iteration of line 11 is
+a. 129
+b. 63
+c. 12
+d. 6
+e. 3
+
+10. Iteration before last of line 11 is
+a. 129
+b. 63
+c. 12
+d. 6
+e. 3
+
+18. The first line printed by line 2 of the code is
+a. **** 1
+b. L#^e 2
+c. Line 3
+d. Empty line
+e. None of the above
+
+19. The second line printed by line 2 of the code is
+a. **** 1
+b. L#^e 2
+c. The last line
+d. Empty line
+e. None of the above
+
+20. The third line printed by line 2 of the code is
+a. L#^e 2
+b. Line 3
+c. The last line
+d. Empty line
+e. None of the above
+
+21. The fourth line printed by line 2 of the code is
+a. L#^e 2
+b. Line 3
+c. The last line
+d. Empty line
+e. None of the above
+
+ANSWERS:
+
+1. a
+2. b
+3. c
+6. d
+7. c
+8. e
+9. a
+10. b
+18. a
+19. e
+20. b
+21. c
