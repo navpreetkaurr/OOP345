@@ -1,0 +1,70 @@
+This workshop was easy however the difficulty I faced was looking for appropriate functions in algorithm library. 
+
+I used for_each, accumulate, copy_if, sort, cleanAlbum and some more functions to complete this workshop. I analyse the best advantage of using STL algorithms is less coding and more readability. 
+
+
+
+QUIZ 7 REFLECTION
+
+1. The first iteration of line 4 prints
+a. A C string
+b. A
+c. C
+d. C string
+e. tring
+
+2. The third iteration of line 4 prints
+a. A C string
+b. A
+c. C
+d. C string
+e. tring
+
+3. The first iteration of line 8 prints
+a. A C string
+b. A
+c. C
+d. C string
+e. tring
+
+4. The third iteration of line 8 prints
+a. A C string
+b. A
+c. C
+d. C string
+e. tring
+
+5. The sixth iteration of line 8 prints
+a. A C string
+b. A
+c. C
+d. C string
+e. tring
+
+13. Line 6 will print
+a. 1.1
+b. The address of the fourth item in array a
+c. 4.4
+d. None of the above
+
+16. Line 1 print:
+a. Test 1: same
+b. Test 2: different
+c. All of the above
+d. None of the above
+
+17. Line 2 print:
+a. Test 1: same
+b. Test 2: different
+c. All of the above
+d. None of the above
+
+ANSWERS:
+1. b
+2. c
+3. a
+4. d
+5. e
+13. b
+16. a
+17. b
